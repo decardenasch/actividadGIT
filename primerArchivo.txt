@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Vamos a editar aquí las dos para probar GITHUB!
+=======
+hgqui esta el primer archivo readosdfsfsdfsfsfs
+d
+
+modificacion al tiempo
+>>>>>>> 6f3798c925fb77b59d7f1abdc25a2ea7ee08202e
